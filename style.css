@@ -15,12 +15,25 @@ body {
     margin: 0;
     font-size: 1.8rem;
 }
+.heading {
+    min-height: 100vh;
+}
 .main {
     text-align: center;
+    min-height: 100vh;
 }
-h4 {
+body h4 {
     font-family: 'Acme', sans-serif;
+    color: springgreen;
+    /* background-color: red; */
 }
-h3 {
+body h1 {
     font-family: 'Poiret One', cursive;
+    color: deeppink;
+}
+body a {
+    color: darkolivegreen;
+}
+body a:hover {
+    color: darkseagreen;
 }

@@ -1,17 +1,20 @@
 body {
     background-color: snow;
   }
-  
-  .heading-name {
+
+.heading-name {
     font-family: 'Sacramento', cursive; 
     font-size: 3em;
     margin: 0;
     margin-top: 40px;
-  }
+}
 
-  .subheading {
+.subheading {
     font-family: 'Long Cang', cursive;
     color: skyblue;
     margin: 0;
     font-size: 1.8rem;
-  }
+}
+.main {
+    text-align: center;
+}

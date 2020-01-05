@@ -30,6 +30,7 @@ body h4 {
 body h1 {
     font-family: 'Poiret One', cursive;
     color: deeppink;
+    line-height: 5rem;
 }
 body a {
     color: darkolivegreen;

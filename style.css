@@ -1,7 +1,35 @@
 body {
-    background-color: snow;
-  }
+    /* padding: 1em 2em; */
+    padding-top: 3px;
+    font-size: 18px;
+    background: #222;
+    color: #aaa
+    font-family: 'Raleway', sans-serif;
+}
 
+body h1,h2 {
+    font-weight: 200;
+    margin: 0.4em 0;
+}
+body h2 {
+    color: #888;
+    font-size: 1.3em;
+    font-family: 'Long Cang', cursive;
+}
+body h4 {
+    font-family: 'Acme', sans-serif;
+    color: springgreen;
+    /* background-color: red; */
+}
+body h1 { 
+    font-size: 3.5em; 
+}
+body a {
+    color: darkolivegreen;
+}
+body a:hover {
+    color: darkseagreen;
+}
 .heading-name {
     font-family: 'Sacramento', cursive; 
     font-size: 3.5rem;
@@ -10,7 +38,7 @@ body {
     color: #fff;
 }
 #title {
-    /* padding-top: 2rem; */
+    padding-top: 2rem;
     background-color: palegreen;
 }
 .subheading {
@@ -21,24 +49,9 @@ body {
 }
 .heading {
     min-height: 100vh;
+    text-align: center;
 }
 .main {
     text-align: center;
     min-height: 100vh;
-}
-body h4 {
-    font-family: 'Acme', sans-serif;
-    color: springgreen;
-    /* background-color: red; */
-}
-body h1 {
-    font-family: 'Poiret One', cursive;
-    color: deeppink;
-    line-height: 5rem;
-}
-body a {
-    color: darkolivegreen;
-}
-body a:hover {
-    color: darkseagreen;
 }

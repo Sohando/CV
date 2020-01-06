@@ -1,9 +1,9 @@
 body {
-    /* padding: 1em 2em; */
     padding-top: 3px;
-/*     font-size: 18px; */
+    font-size: 18px;
     background: #222;
     color: #aaa
+    
 }
 
 body h1,h2 {
@@ -31,21 +31,11 @@ body a:hover {
     color: darkseagreen;
 }
 .heading-name {
-    font-family: 'Sacramento', cursive; 
-    font-size: 3.5rem;
-    /* margin: 0; */
-    padding-top: 3rem;
     color: #fff;
 }
 #title {
     padding-top: 2rem;
     background-color: palegreen;
-}
-.subheading {
-    font-family: 'Long Cang', cursive;
-    color: black;
-    margin: 0;
-    font-size: 1.8rem;
 }
 .heading {
     min-height: 100vh;
